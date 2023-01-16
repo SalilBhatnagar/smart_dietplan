@@ -1,0 +1,973 @@
+/* .div-footer-container ul li {
+  list-style: none;
+  display: inline;
+  padding: 0% 16% 0% 12%;
+
+} */
+/* login and otp css add */
+html,
+body {
+  /* margin: 0;
+  padding: 0; */
+  font-family: "jost", sans-serif;
+  height: 100%;
+  margin: 0;
+
+}
+
+
+.div-footer-container {
+  background-color: #6a8330;
+  width: 100%;
+  color: #fff;
+  position: fixed;
+  top: 87%;
+  margin: 0px -6px;
+  height: 101px;
+}
+
+button.div-button {
+  width: 100%;
+  height: 126px;
+  background-color: #6a8330;
+  color: #fff;
+  position: fixed;
+  top: 85%;
+  margin: 0px -6px;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+  width: 100% !important;
+  background: #6a8330 !important;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root:hover {
+  background: #6a8330 !important;
+}
+
+span.div-img {
+  margin-right: 13%;
+}
+
+span.div-footer-contain {
+  margin-left: 8%;
+  position: relative;
+  bottom: 45px;
+}
+
+.div-footer-contain {
+  margin-top: 5%;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.div-img {
+  margin-top: 2%;
+  text-align: center;
+}
+
+select.select-data {
+  width: 100%;
+  height: 59px;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+}
+
+.css-1vhaqj4-MuiButtonBase-root-MuiButton-root {
+  background-color: #81a13c !important;
+}
+
+h6.h6-heading3 {
+  line-height: 0px;
+  margin: 0% 24%;
+  font-size: 12px;
+  font-weight: 600;
+  position: absolute;
+  bottom: 28%;
+  font-family: "jost", sans-serif"
+}
+
+h6.h6-heading2 {
+  line-height: 0px;
+  font-size: 12px;
+  font-weight: 600;
+  position: relative;
+  bottom: 9px;
+  font-family: "jost", sans-serif"
+}
+
+span.span-heading1 {
+  color: #c89e7f;
+  margin: 15px 0px 0px 0px;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 1px;
+  position: relative;
+  bottom: 8px;
+}
+
+h6.h6-heading4 {
+  margin: 8px 0px 0px 0px;
+  font-size: 12px;
+  font-weight: 600;
+  font-family: "jost", sans-serif"
+
+}
+
+h6.h6-heading5 {
+  line-height: 0px;
+  margin: 5% 10%;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 0% 0% 0% 0%;
+  font-family: "jost", sans-serif"
+
+}
+
+span.span-no {
+  color: #c89e7f;
+  font-weight: 800;
+}
+
+span.span-otp-dis {
+  position: relative;
+  top: 23px;
+  right: -21%;
+  font-weight: 400;
+  font-size: 13px;
+  font-family: "jost", sans-serif"
+  
+}
+
+.div-number-err {
+  text-align: center;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 0px;
+}
+
+/* add new css diet plan */
+
+h4.dis1 {
+  text-transform: capitalize;
+  color: #333333;
+  padding: 1% 0%;
+  text-align: center;
+}
+
+h3.dis2 {
+  text-transform: uppercase;
+  color: #333333;
+  font-size: 29px;
+  font-weight: 100;
+  margin: -2% 0px;
+  text-align: center;
+}
+
+h1.dis3 {
+  text-transform: uppercase;
+  color: #000;
+  font-size: 24px;
+  font-weight: 700;
+  text-align: center;
+  margin: 2% 0%;
+}
+
+h4.p-dis1 {
+  /* letter-spacing: 1px; */
+  text-transform: capitalize;
+  color: #333333;
+  font-size: 15px;
+  font-weight: 100;
+  text-align: center;
+  margin: -1% 0%;
+}
+
+h4.p-dis2 {
+  text-transform: capitalize;
+  color: #333333;
+  font-size: 14px;
+  font-weight: 100;
+  text-align: center;
+  margin: 0% 0%;
+}
+
+h3.dis4 {
+  text-align: center;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #333333;
+  padding: 1% 0% 0% 0%;
+  position: relative;
+  top: 9px;
+  font-family: "jost", sans-serif
+}
+
+h1.dis5 {
+  text-align: center;
+    color: #000;
+    line-height: 0px;
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 0%;
+    font-family: "jost", sans-serif
+}
+
+h3.dis6 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #333333;
+  text-transform: capitalize;
+  letter-spacing: 0px;
+  line-height: 0px;
+  text-align: center;
+  font-family: "jost", sans-serif
+}
+
+h3.dis7 {
+  /* font-size: 18px;
+  font-weight: 600;
+  color: #333333;
+  text-transform: capitalize;
+  letter-spacing: 0px;
+  text-align: center; */
+  letter-spacing: 0px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333333;
+  text-transform: capitalize;
+  font-family: "jost", sans-serif
+}
+
+h4.dis8 {
+  /* text-align: center;
+  text-align: center;
+  font-size: 18px;
+  text-transform: capitalize;
+  font-weight: 800; */
+  text-align: left;
+    position: relative;
+    margin: 2% 0%;
+    font-size: 13px;
+    color: #606060;
+    font-weight: 800;
+    right: 0%;
+
+}
+
+
+
+h1.h1-sneakpeak1 {
+  text-align: center;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 900;
+  position: relative;
+  bottom: 2em;
+  font-size: 16px;
+  font-family: "jost", sans-serif
+}
+
+h1.h1-sneakpeak2 {
+  text-align: center;
+  color: #000;
+  font-size: 14px;
+  position: relative;
+  top: 1em;
+  font-weight: 800;
+  font-family: "jost", sans-serif
+
+}
+
+.div-card-dis {
+  text-align: center;
+}
+
+.div-dis-container-main {
+  /* background: #fff; */
+  /* padding: 1% 1% 2% 1%;
+  width: 97%;
+  margin: 0% 0%;
+  margin-left: 0%; */
+  padding: 0% 0% 0% 0%;
+  width: 100%;
+}
+
+h3.dis8 {
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: 900;
+  font-size: 16px;
+  color: #000;
+  padding: 0% 0%;
+  position: relative;
+  bottom: 16px;
+  font-family: "jost", sans-serif
+}
+
+h3.dis10 {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 16px;
+  font-weight: 900;
+  color: #000;
+  padding: 5% 0%;
+  position: relative;
+  bottom: 16px;
+  font-family: "jost", sans-serif
+}
+
+h3.dis12 {
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: 900;
+  font-size: 17px;
+  color: #000;
+  /* margin: 0% 0%; */
+  padding: 0% 0%;
+  position: relative;
+  bottom: 16px;
+  font-family: "jost", sans-serif
+}
+
+h4.dis9 {
+  font-size: 15px;
+  text-align: -webkit-center;
+  font-weight: 500;
+  color: #333333;
+  position: relative;
+  bottom: 25px;
+  line-height: 15px;
+  font-family: "jost", sans-serif;
+  /* position: relative;
+  bottom: 0%; */
+}
+
+h4.dis11 {
+  font-size: 16px;
+  text-align: -webkit-center;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #333333;
+  font-size: 15px;
+  text-align: -webkit-center;
+  font-weight: 500;
+  color: #333333;
+  position: relative;
+  bottom: 35px;
+  font-family: "jost", sans-serif;
+  line-height: 17px;
+}
+
+h4.dis13 {
+  font-size: 15px;
+  text-align: -webkit-center;
+  font-weight: 500;
+  color: #333333;
+  position: relative;
+  bottom: 31px;
+  line-height: 16px;
+  font-family: "jost", sans-serif
+  /* font-family:"Jost-Book" */
+}
+
+.div-dis-container3 {
+  background: #fff;
+  padding: 1% 1% 0% 0%;
+  width: 94%;
+  position: relative;
+  bottom: 3%;
+  margin-left: 3%;
+  height: 85%
+  
+
+
+    /* top: 3%;
+    position: relative; */
+}
+
+.div-card-rating-container {
+  width: 97%;
+  position: relative;
+  right: 0%;
+  /* margin-left: 25%; */
+}
+
+img.img-card-img1 {
+  /* height: 284px;
+     position: relative;
+     border-radius: 28px;
+     left: 30%;
+     min-width: 65% */
+
+  /* position: relative;
+    left: 55%; */
+  /* border-radius: 28px;
+  border: 1px solid #fff;
+  width: 100%;
+  height: 300px;
+  margin: 0% -5%;
+  position: relative;
+  left: 0%; */
+  border-radius: 11px;
+  width: 95%;
+  max-height: 440px;
+  margin: 0% 0%;
+  position: relative;
+  left: 0%;
+}
+
+img.img-card-img2 {
+  /* height: 284px;
+  border-radius: 28px;
+  margin: 0% 2%;
+  min-width: 65% */
+
+  /* position: relative;
+  left: 5%; */
+  border-radius: 11px;
+  border: 1px solid #fff;
+  width: 95%;
+  max-height: 440px;
+  margin: 0% 0%;
+  position: relative;
+  left: 11%;
+}
+
+img.img-card-img3 {
+  /* height: 284px;
+  border-radius: 28px;
+  margin: 0% 18%;
+  min-width: 77% */
+  /* position: relative;
+  left: 55%; */
+  border-radius: 11px;
+  width: 95%;
+  max-height: 440px;
+  margin: 0% 0%;
+  position: relative;
+  left: 0%;
+}
+
+img.img-card-img4 {
+  /* height: 284px;
+  border-radius: 28px;
+  margin: 0% 3%;
+  min-width: 77% */
+  /* position: relative;
+  left: 5%; */
+  border-radius: 11px;
+  border: 1px solid #fff;
+  width: 95%;
+  max-height: 440px;
+  margin: 0% 0%;
+  position: relative;
+  left: 11%;
+}
+
+h5.dis14 {
+  text-align: left;
+  position: relative;
+  margin: 1% 0%;
+  font-size: 13px;
+  color: #606060;
+  font-weight: 600;
+  /* right: 1%; */
+  font-family: "jost", sans-serif
+}
+
+h5.dis15 {
+  text-align: left;
+  position: relative;
+  margin: 2% 0%;
+  font-size: 13px;
+  color: #606060;
+  font-weight: 600;
+  left: 12%;
+  font-family: "jost", sans-serif
+}
+
+h5.dis16 {
+  text-align: left;
+  position: relative;
+  right: 0%;
+  margin: 1% 0%;
+  font-size: 13px;
+  color: #606060;
+  font-weight: 600;
+  font-family: "jost", sans-serif
+}
+
+h5.dis17 {
+  text-align: left;
+  position: relative;
+  margin: 1% 0%;
+  font-size: 13px;
+  color: #606060;
+  font-weight: 600;
+  left: 12%;
+  font-family: "jost", sans-serif
+}
+
+img.img-card-star1 {
+  margin: 0% 0%;
+  margin-right: 35%;
+}
+
+img.img-card-star2 {
+  position: relative;
+  bottom: 5px;
+  width: 4em;
+  left: 12%;
+}
+
+img.img-card-star3 {
+  position: relative;
+  right: 0%;
+  bottom: 5px;
+  width: 4em;
+}
+
+img.img-card-star4 {
+  position: relative;
+  right: -12%;
+  bottom: 5px;
+  width: 4em;
+}
+
+img.img-card-star1 {
+  position: relative;
+  right: 0%;
+  bottom: 5px;
+  width: 4em;
+}
+
+p.p-card-contain1 {
+  word-break: break-all;
+  margin: 0% 10% 0% 0%;
+  position: relative;
+  right: 0%;
+  margin-bottom: 5%;
+  text-align: left;
+  font-family: "jost", sans-serif
+  
+}
+
+p.p-card-contain2 {
+  /* word-break: break-all;
+  text-align: right;
+  margin: 0% 0%;
+  position: relative;
+  left: 4%;
+  margin-bottom: 5%; */
+   word-break: break-all;
+    position: relative;
+    left: 12%;
+    margin-bottom: 5%;
+    margin: 0% 0% 0% 0%;
+    text-align: justify;
+    bottom: 7px;
+    font-family: "jost", sans-serif
+}
+
+p.p-card-contain3 {
+  word-break: break-all;
+  /* text-align: left; */
+  margin: 0% -2%;
+  position: relative;
+  right: -2%;
+  margin-bottom: 5%;
+  text-align: justify;
+  bottom: 4px;
+  font-family: "jost", sans-serif
+}
+
+p.p-card-contain4 {
+  word-break: break-all;
+  text-align: justify;
+  margin: 0% 0%;
+  position: relative;
+  left: 12%;
+  margin-bottom: 5%;
+  bottom: 2px;
+  font-family: "jost", sans-serif
+}
+
+.div-footer {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 2% 0%;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+.div-footer-container a:link {
+  text-decoration: none;
+}
+
+img.img-footer-free {
+  margin-left: 1%;
+}
+
+img.span-footer-free {
+  margin: 1%;
+  bottom: 18px;
+  padding: 2px 0px 0px 2px;
+  width: 4%;
+}
+
+img.img-smartchart-img {
+  /* width: 14%; */
+  padding: 0% 69% 0% 0%;
+  bottom: 10%;
+  margin: 2% 0%;
+}
+
+h2.h2-btn-dietplan {
+  text-align: center;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 800;
+  text-align: left;
+  color: #fff;
+  margin: 3% 0% 0% -43%;
+  text-align: center;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  position: relative !important;
+  top: 30% !important;
+  padding: 0% 67% 0% 48% !important;
+  margin: 0% 8% 13% 12% !important;
+  height: 600px;
+  width: -webkit-fill-available;
+}
+
+button#close-log-btn {
+  position: absolute;
+  left: 60%;
+  top: 20;
+}
+
+.css-m9glnp-MuiPaper-root-MuiDialog-paper {
+  height: auto !important;
+  margin: 34% 0% 0% 0% !important;
+  position: absolute !important;
+  bottom: 0 !important;
+}
+
+.css-1d6w9lk-MuiButtonBase-root-MuiIconButton-root {
+  color: #000 !important;
+}
+
+.css-10ghrmp-MuiPaper-root-MuiAppBar-root {
+  background-color: #fff !important;
+  color: #fff !important;
+  position: relative !important;
+  display: none !important;
+}
+
+span.span-close-button {
+  position: relative;
+  top: 37px;
+      color: #000;
+      left: 4%;
+  cursor: pointer;
+}
+
+.css-1y942vo-MuiButtonBase-root-MuiButton-root:hover {
+  background: #fff;
+  padding: 0px 0px !important;
+}
+
+.login-handle-btn {
+  position: fixed;
+  top: 91%;
+  background: #6a8330;
+  margin: 0% 0% 5% 0%;
+  width: 100%;
+}
+
+img.screen1 {
+  width: 100%;
+  /* height: 75%; */
+  height: 85%;
+}
+
+img.screen2 {
+  width: 100%;
+  /* height: 75%; */
+  height: 85%;
+}
+
+/* img.img-FreeDiet {
+  position: absolute;
+  top: 17%;
+  width: 2%;
+  left: 68%;
+  left: 84%
+  left: 73%;
+} */
+
+.div-mainotp {
+  position: relative;
+  height: 20em;
+  bottom: 24px;
+  padding: 0% 0%;
+  margin: 0% 0%;
+  left: 3px;
+}
+
+.css-binzgt {
+  margin-top: 24px !important;
+}
+
+.div-otp-contain {
+  right: 1px;
+  margin: 0% 0% 0% 2%;
+  margin-bottom: -6%;
+  position: relative;
+  top: 4px;
+}
+
+.input-otp-veryfy {
+  padding: -8% 0%;
+  margin-right: -8%;
+  margin-top: 1%;
+}
+
+.input-otp-veryfy {
+  /* padding: -8% 0%;
+  margin-right: -11%;
+  margin-top: 1%; */
+  margin: -1% -1%;
+  position: relative;
+  left: 2%;
+}
+
+.div-card-container {
+  /* margin: 0% 0% 0% 0%;
+  padding: 0% 0% 0% 0%;
+  width: 100%;
+  position: relative;
+  bottom: 0px; */
+  width: 100%;
+    position: relative;
+    top: 54px;
+    text-align: center;
+}
+
+hr.hr1 {
+  width: 16%;
+  position: relative;
+  right: 42%;
+  bottom: 4px;
+  border-top: 1px solid black;
+}
+
+hr.hr2 {
+  width: 16%;
+  position: relative;
+  right: 30%;
+  bottom: 7px;
+  border-top: 1px solid black;
+}
+
+hr.hr3 {
+  width: 16%;
+  position: relative;
+  right: 42%;
+  bottom: 2px;
+  border-top: 1px solid black;
+}
+
+hr.hr4 {
+  width: 16%;
+  position: relative;
+  right: 30%;
+  bottom: 4px;
+  border-top: 1px solid blac
+}
+
+span#more {
+  display: none;
+}
+
+a#myBtn {
+  color: red;
+  cursor: pointer;
+}
+
+span#more1 {
+  display: none;
+}
+
+a#myBtn1 {
+  color: red;
+  cursor: pointer;
+}
+
+span.h2-btn-dietplan {
+  font-size: 13px;
+  position: absolute;
+  top: 33%;
+  right: 11%;
+  color: #fff;
+  font-family: "jost", sans-serif
+}
+
+img.img-FreeDiet {
+  position: absolute;
+  left: 89%;
+  top: 18%;
+}
+
+.ReactFlagsSelect-module_selectBtn__19wW7 {
+  height: 60px !important;
+  border: 1px solid #606060 !important;
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  border: 1px solid #606060 !important;
+}
+
+.css-1vhaqj4-MuiButtonBase-root-MuiButton-root {
+  height: 48px !important;
+  width: 88% !important;
+  margin: 11% 5% !important;
+}
+
+span.span-submit-btn {
+  font-size: 19px;
+  font-family: "jost", sans-serif"
+}
+
+span.span-heading-container {
+  padding: 0% 2% 0% 0%;
+  position: relative;
+  bottom: 10px;
+  font-family: "jost", sans-serif"
+}
+
+span.span-no-no {
+  margin-left: 89%;
+  color: #79AFD2;
+  font-weight: 600;
+}
+
+.css-11lq3yg-MuiGrid-root {
+  width: 90% !important;
+  margin: 1% 6% !important;
+}
+.div-defult-flage {
+  border: 1px solid #606060;
+  padding: 2% 0% 6% 0%;
+}
+span.span-region-flage {
+  position: relative;
+  left: 4%;
+  top: 10px;
+  letter-spacing: 1px;
+  font-size: 15px;
+  text-transform: capitalize;
+  font-weight: 700;
+}
+
+img.img-banner1-img {
+  /* width: 100%;
+  max-height: 300px;
+  padding: 0% 0% 0% 0%;
+  margin: 0% 0% 0% 0%; */
+  margin: 0% 0% 0% 0%;
+  border: 0px solid;
+  background: #fff;
+  width: 100%;
+  height: 181px;
+  position: relative;
+  /* margin-bottom: 0%; */
+  margin-top: 3%;
+  /* margin-bottom: 11%; */
+  margin-top: 0%;
+}
+.div-headingcontainer {
+  position: relative;
+  bottom: 2%;
+}
+/* capachar */
+div#rc-anchor-container {
+  margin: 0% 6%;
+  padding: 0% 0%;
+}
+
+/* .css-nzinn5-MuiContainer-root {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+} */
+
+.div-opt-main {
+  background: #fff;
+  width: 1777px;
+  position: fixed;
+  right: 0%;
+  height: 222px;
+  bottom: -25%;
+}
+/* .rc-anchor-light.rc-anchor-normal {
+  border: 1px solid #d3d3d3;
+  margin: 0% 5%;
+  position: absolute;
+} */
+span.span-back-btn {
+  position: relative;
+  right: 0%;
+  cursor: pointer
+}
+.rc-anchor-light {
+  background: #f9f9f9 !important;
+  color: #000 !important;
+  margin: 0% 5% !important;
+  position: absolute !important;
+}
+span.span-otp-vari {
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+    bottom: 20px;
+    font-family: "jost", sans-serif"
+}
+
+/* .css-mhc70k-MuiGrid-root>.MuiGrid-item {
+  padding-left: 16px;
+  position: relative;
+  line-height: 92%;
+  padding: -1% 0%;
+  margin: -5% 0%;
+} */
+
+.otp-btn {
+  margin: 0px 11px;
+}
+
+.span-head-container1 {
+  position: relative;
+  bottom: 40%;
+}
+.span-head-container2 {
+  position: relative;
+ bottom: 40%;
+}
+.span-head-container3 {
+  position: relative;
+ bottom: 40%;
+}
+
+img.img-banner1 {
+  margin: 0% 0%;
+  width: 100%;
+  height: 93%;
+}
